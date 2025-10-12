@@ -12,7 +12,7 @@ Welcome to Car Racing Version 1, a simple yet exciting car racing game created u
 
 ## How to Play 🎮
 
-1. Open the [Car Racing Version 1](https://rishab-creator.github.io/CarRacingVersion1/) game in your web browser.
+1. Open the [Car Racing Version 1](https://rishabnotfound.github.io/CarRacingVersion1/) game in your web browser.
 2. Use the arrow keys or on-screen controls to steer your car.
 3. Avoid obstacles and other cars while racing towards the finish line.
 4. Complete each track as quickly as possible to achieve the best time and earn a spot on the leaderboard.
