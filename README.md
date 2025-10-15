@@ -1,5 +1,7 @@
 # Car Racing Version 1 🏎️🏁
 
+<img width="1908" height="947" alt="image" src="https://github.com/user-attachments/assets/d9d12e9a-8450-4fb5-acb7-017a31e5aa62" />
+
 Welcome to Car Racing Version 1, a simple yet exciting car racing game created using HTML, CSS, and JavaScript! Get ready to experience the thrill of high-speed racing from the comfort of your web browser. 🚗💨
 
 ## Features ✨
